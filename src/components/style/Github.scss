@@ -1,0 +1,80 @@
+.git{
+    background: linear-gradient(45deg,rgba(216, 46, 8, 0.085),rgba(62, 7, 189, 0.126));
+    width: 100%;
+    height: auto;
+   padding-top: 20px;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   
+    // border: 1px solid red;
+   
+
+.kill{
+
+color: chocolate;
+font-size: 40px;
+padding-top: 30px;
+}
+.stack
+{
+    display: flex;
+    flex-direction: row;
+    gap: 60px;
+    padding-left: 70px;
+    padding-top: 50px;
+    
+}
+.used{
+    padding-top: 50px;
+}
+}
+@media (max-width:850px){
+    .git{
+        .kill{
+            font-size: 15px;
+        }
+        .stack{
+            
+            display: flex;
+            flex-direction: column;
+            padding-left: 20px;
+            padding-top: 50px;
+        }
+        .dark{
+            width: 300px;
+        }
+    
+    }
+
+    
+
+}
+
+@media (max-width:360px){
+    .git{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+      
+        .kill{
+            font-size: 15px;
+        }
+        .stack{
+            .dark{
+                width: 300px;
+            }
+            
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        }
+        .dark{
+            width: 300px;
+        }
+    
+    }
+}

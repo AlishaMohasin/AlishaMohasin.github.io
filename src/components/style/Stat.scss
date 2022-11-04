@@ -1,0 +1,20 @@
+.calender{
+    background: linear-gradient(45deg,rgba(216, 46, 8, 0.085),rgba(62, 7, 189, 0.126));;
+    height: auto;
+    width: 100%;
+    padding-top: 60px;
+    padding-left: 290px;
+    text-align: center;
+}
+@media (max-width:850px){
+    .calender{
+        width: 100%;
+        padding-left: 30px;
+    }
+}
+@media (max-width:360px){
+    .calender{
+        width: 100%;
+        padding-left: 30px;
+    }
+}
