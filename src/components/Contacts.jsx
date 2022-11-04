@@ -45,7 +45,7 @@ const Contact = () => {
             <p><FaPhoneSquareAlt size={"26px"} className="loc" />8050957539</p>
             <p><SiGmail size={"26px"} className="loc" /> alishamohasin85@gmail.com</p>
           <p> <MdLocationPin size={"26px"} className="loc" />Kannur,Kerala</p>
-         <p> <a href="https://www.linkedin.com/in/alishamohasin/"><SiLinkedin size={"26px"} className="loc"  /></a></p> 
+          <p> <a href="https://www.linkedin.com/in/alishamohasin/"><SiLinkedin size={"26px"}     className="loc"  /></a></p> 
           <p><a href="https://github.com/AlishaMohasin"><SiGithub size={"26px"} className="loc"/></a></p>
           
         </div>

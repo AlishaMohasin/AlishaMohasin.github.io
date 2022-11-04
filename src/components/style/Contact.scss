@@ -6,13 +6,13 @@
 
 .contact {
     width: 100%;
-    height: 40vh;
+    height: 50vh;
     background: rgb(248, 235, 235);
-    padding: 10px 10px;
+    padding: 80px 20px 20px 20px;
     
 }
 .contact>h1{
-    color: chocolate;
+    color: #262626;
 
 }
 
@@ -73,7 +73,9 @@ a {
     font-weight:500;
 }
 .location .loc{
+  
     color: #d47c70;
+   
 }
 .location .loc:hover{
     transform: scale(1.15);

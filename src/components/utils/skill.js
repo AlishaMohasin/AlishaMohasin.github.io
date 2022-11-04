@@ -39,7 +39,11 @@ export  const skill=[
       {
         label: "Mongo dB",
         src: "https://i.ibb.co/ZVh01dm/rsz-mong2.png",
-      },
+  },
+  {
+    label: "Nest Js",
+    src:"https://img.icons8.com/color/480/000000/nextjs.png"
+      }
     ];
 
     

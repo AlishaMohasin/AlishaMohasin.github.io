@@ -21,7 +21,8 @@ const Header = () => {
         <div className='header'>
 
                     <div className="header__logo">
-                        <h2> <i>Am</i></h2>
+                <h2> <i>Am</i></h2>
+             
                     </div>
 
             <nav className={active ? 'navbar active' : 'navbar'}>
