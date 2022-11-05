@@ -2,21 +2,23 @@
     background: linear-gradient(45deg,white,white);
     height: auto;
     width: 100%;
-    margin: auto;
+
     padding-top: 60px;
     padding-left: 190px;
     text-align: center;
-  
+    margin-left:180px;
 }
 @media (max-width:850px){
     .calender{
-        width: 100%;
+        width: 90%;
         padding-left: 30px;
+        margin-left:-10px;
     }
 }
-@media (max-width:360px){
+@media (max-width:375px){
     .calender{
-        width: 100%;
-        padding-left: 30px;
+        width: 90%;
+        margin-left:-10px;
+       
     }
 }
