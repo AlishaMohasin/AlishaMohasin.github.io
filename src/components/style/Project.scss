@@ -2,7 +2,7 @@
     // height: 700px;
     height: auto;
     width: 100%;
-    background:linear-gradient(45deg,#c4b5fd,#fecdd3 );
+    background:linear-gradient(45deg, #ffe4e6, #ffe4e6  );
     // margin-top: -30px;
     padding-top: 5px;
    
@@ -11,9 +11,9 @@
         margin-top: 2rem;
         margin-right: 1rem;
         margin-bottom: 1rem;
-        background: linear-gradient(25deg,#ef4444,#f87171);
+        background: linear-gradient(25deg,#fb7185,#f87171);
         color: #fff;
-        border: solid 1px #ef4444;
+        border: solid 1px #fb7185;
         cursor: pointer;
         border-radius: 5px;
         text-transform: uppercase;
@@ -62,29 +62,30 @@
     }
     .hour{
   width: 100%;
-  padding-left:  10px;
+  
   cursor: grab;
   
-  background-color:lightgray;
+  background-color:#fff1f2  ;
 
         p{
      color: black;
     padding-top: 10px;
-    text-align: center;
+    // text-align: center;
+    justify-content: center;
         }
         .com{
             font-size: 20px;
-            color: brown;
+            color: #9d174d;
             padding-top: 5px;
         }
         .bg{
-            background-color: lightgray;
+            background-color: #fff1f2 ;
             text-align: center;
             padding-top: 10px;
                 }
                 .bg:hover{
                     text-decoration: underline;
-                    color:#ef4444 ;
+                    color:#9d174d ;
                 }
     .tech{
         text-decoration: none;
@@ -92,7 +93,7 @@
     }
     .tech:hover{
         text-decoration: underline;
-        color:rebeccapurple
+        color:#9d174d
     }
     }
 
@@ -163,7 +164,7 @@ gap: 20px;
 
 .hour{
     width: 30%;
-    padding-left: 10px;
+  
     cursor: pointer;
   
           p{

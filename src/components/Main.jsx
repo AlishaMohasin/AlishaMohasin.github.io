@@ -1,4 +1,4 @@
-import { FaFacebookSquare,FaInstagramSquare,FaGithub,FaLinkedin } from 'react-icons/fa';
+import { FaGithub,FaLinkedin } from 'react-icons/fa';
 import React from 'react'
 //  import './Styles/Main.css'
  import "./style/Main.scss"
@@ -24,7 +24,7 @@ const Main = () => {
                                </p>
                        
                           
-                             <div className="icons">
+                             {/* <div className="icons">
                  
                  
                    <a href="https://github.com/AlishaMohasin">
@@ -34,7 +34,7 @@ const Main = () => {
                     <i className="icon"><FaLinkedin size={"40px"} /></i>
                    </a>
 
-                   </div>
+                   </div> */}
 
 
                     <div className="buttons">
