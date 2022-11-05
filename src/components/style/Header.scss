@@ -47,6 +47,7 @@ ul {
 .changer {
     display: flex;
     margin-right: 1.555rem;
+ 
     .menu {
         cursor: pointer;
         margin-right: 1rem;
@@ -59,6 +60,7 @@ ul {
 
 @media (max-width:850px) {
     .header {
+       width: 100%;
         justify-content: space-between;
     }
     .navbar {
@@ -78,7 +80,7 @@ ul {
 
 
     ul {
-        margin: 0 auto;
+        margin: auto;
         align-items: center;
         flex-direction: column;
         margin-top: 1rem;
@@ -95,6 +97,7 @@ ul {
 
     .changer {
         .menu {
+            margin-left: -60px;
             display: block;
         }
     }
@@ -128,6 +131,7 @@ ul {
 
     .changer {
         .menu {
+          
             display: block;
             margin-right: 0;
         }
