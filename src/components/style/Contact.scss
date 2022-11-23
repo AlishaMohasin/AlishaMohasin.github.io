@@ -92,7 +92,9 @@ a {
 
 @media (max-width:480px) {
     .contact{
-        width: 100%;
+         width: 100%;
+        margin:auto;
+       
     }
     .inputs {
         width: 60%;
@@ -114,13 +116,17 @@ a {
         // text-align: center;
     }
 }
-@media (max-width:850px) {
+@media (max-width:1024px) {
     .inputs {
-        width: 60%;
+       margin: auto;
+
+       
+        
 
     }
     .contact{
-        width: 100%;
+      width:100%;
+        margin: auto;
     }
         .inputs input {
             padding: 15px;

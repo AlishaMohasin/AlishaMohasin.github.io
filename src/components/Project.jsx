@@ -6,7 +6,7 @@ import {SiRedux ,SiCss3,SiJavascript,SiChakraui,SiNetlify,SiMongodb,SiVercel} fr
 import everhour from "./assests/Everhour.png"
  import monday from "./assests/Monday.png"
 import mamaearth from "./assests/Mamaearth.png"
-import shopbop from "./assests/shopbop.png"
+import beautyhub from "./assests/beautyhub.png"
 import wheather from "./assests/wheather.png"
 import deccan from "./assests/deccan.png"
 
@@ -51,7 +51,26 @@ const Project=()=>{
                    </div>
                 </div>
               
-              
+                <div className="project-box1">
+            <div className="ever">
+                    
+                    <img className="pro" width="100%" height={"350px"} src={beautyhub} alt="" />
+                 
+                    </div>
+                    <div className="hour">
+                    <h4 className="bg"> Beauty Hub</h4>
+                   <p>   A beautyhub, supply store or cosmetics store is a specialty retailer that sells cosmetics, hair-care products . The term "beautyhub"  is often associated with large chains that provide a large-format, glamorous shopping experience whereas "beauty supply store"</p>
+                   <p className="tech">TECH STACK USED</p>
+                   <p className="react"><FaReact color="#9d174d" size="30px"/> <SiRedux color="#9d174d" size="30px"/> <SiNetlify  color="#9d174d" size="30px"/><SiJavascript color="#9d174d" size="30px"/> <SiChakraui color="#9d174d" size="30px"/> <SiMongodb color="#9d174d" size="30px"/></p>
+
+                  <a  href="https://beautyhubproject.netlify.app/" ><button>Live</button></a> 
+                  <a href="https://github.com/Sagarsandbhor17/Beautyhub" > <button >Github</button></a>
+                    </div>
+                   
+                  
+                   
+                </div>
+
               
               
               
@@ -93,6 +112,9 @@ const Project=()=>{
                 </div>
                
                
+              
+       
+                
                 <div className="project-box3">
                     <div className="ever">
                         <img width="100%" height={"350px"} src={deccan}alt="" />
@@ -107,29 +129,7 @@ const Project=()=>{
                     <a href="https://github.com/Naquee/Decon-Chronical.git" ><button>Github</button></a>
                   
                    </div>
-                </div>
-                <div className="project-box1">
-            <div className="ever">
-                    
-                    <img className="pro" width="100%" height={"350px"} src={shopbop} alt="" />
-                 
-                    </div>
-                    <div className="hour">
-                    <h4 className="bg">  Shopbop clone</h4>
-                   <p>   Shopbop is a US online fashion apparel and accessories shop opened in 1999. It has been a subsidiary of Amazon.com since 2006. </p>
-                   <p className="tech">TECH STACK USED</p>
-                   <p className="react"><FaHtml5 size="33px" color="#9d174d"/>  <SiCss3  color="#9d174d"  size="30px"/> <SiJavascript  color="#9d174d"  size="30px"/> <SiNetlify  color="#9d174d" size="30px"/></p>
-
-                  <a  href="https://shopbop-clone.netlify.app/" ><button>Live</button></a> 
-                  <a href="https://github.com/Rahul850kr/ShopBob-Clone-Project" > <button >Github</button></a>
-                    </div>
-                   
-                  
-                   
-                </div>
-
-                
-              
+                </div>     
 
 
                 

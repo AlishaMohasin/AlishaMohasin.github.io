@@ -32,8 +32,12 @@ padding-top: 30px;
 }
 @media (max-width:850px){
     .git{
+        width: 100%; 
+        margin-left:-10px;
+        margin: auto;
         .kill{
             font-size: 15px;
+           
         }
         .stack{
             
@@ -58,6 +62,8 @@ padding-top: 30px;
         flex-direction: column;
         justify-content: center;
         align-items: center;
+        width:100%;
+        margin: auto;
       
         .kill{
             font-size: 15px;

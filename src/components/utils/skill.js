@@ -41,7 +41,7 @@ export  const skill=[
         src: "https://i.ibb.co/ZVh01dm/rsz-mong2.png",
   },
   {
-    label: "Nest Js",
+    label: "Next Js",
     src:"https://img.icons8.com/color/480/000000/nextjs.png"
       }
     ];

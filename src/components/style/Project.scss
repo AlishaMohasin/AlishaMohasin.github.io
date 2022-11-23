@@ -5,6 +5,7 @@
     background:linear-gradient(45deg, #ffe4e6, #ffe4e6  );
     // margin-top: -30px;
     padding-top: 5px;
+    margin-top: -40px;
    
     Button{
         padding: 15px 40px;
@@ -46,7 +47,7 @@
    .project-box1{
     width: 33%;
     // border: 1px solid brown;
-    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.12);
     border-radius: 10px;
    }
     .ever{
@@ -130,7 +131,10 @@
 
 @media (max-width:850px){
     .purple{
-        width:100%
+        // width:100%;
+        margin :auto;
+        
+        margin-left:10px;
     }
     
     .kill{
@@ -186,10 +190,11 @@ gap: 20px;
     }
 
 
-@media (max-width:360px)
+@media (max-width:390px)
 {
     .purple{
-        width:100%
+        width:100%;
+        margin: auto;
     }
     .kill{
         font-size: 15px;

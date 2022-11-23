@@ -1,6 +1,6 @@
 .main {
     min-height: 100vh;
-    max-width: 100%;
+    width: 100%;
     background-color: white ;
     position: relative;
 
@@ -111,7 +111,8 @@
 @media (max-width:1200px) 
 {
     .main{
-        max-width: 100%;
+        // max-width: 100%;
+        margin:auto;
     }
 
     .text {
@@ -133,6 +134,7 @@
     }
     .icons {
         margin-right: 1rem;
+        margin-left: 360px;
         .icon {
             font-size: 25px;
         }
@@ -144,9 +146,10 @@
 
 }
 
-@media (max-width:700px) {
+@media (max-width:790px) {
     .main{
         width: 100%;
+        margin:auto;
     }
 
     .main__content {
@@ -161,6 +164,7 @@
 
     .main__img img {
         width: 250px;
+       
     }
 
     .text {
@@ -174,7 +178,46 @@
     }
 
     .icons{ 
-        margin-left: 1.5rem;
+        margin-left: 100px;
+    .icon {
+        color: #d47c70;
+        
+    }
+}
+}
+@media (max-width:450px) {
+    .main{
+        width: 100%;
+        margin-left: 10px;
+    }
+
+    .main__content {
+        margin-left: 0;
+    }
+
+    .main__container {
+        text-align: center;
+        flex-direction: column-reverse;
+        justify-content: center;
+    }
+
+    .main__img img {
+        width: 250px;
+       
+    }
+
+    .text {
+        h1 {
+            font-size: 23px;
+        }
+        p {
+            color: #000;
+            font-size: 11px;
+        }
+    }
+
+    .icons{ 
+        margin-left: 100px;
     .icon {
         color: #d47c70;
         
