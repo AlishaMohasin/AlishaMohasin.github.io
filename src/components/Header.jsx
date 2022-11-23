@@ -56,7 +56,7 @@ const Header = () => {
                     </li>
                     <li>
                     
-                            <a className="black"  href="Alisha_Mohasin_Resume.pdf" download="Alisha_Mohasin_Resume.pdf"> Resume</a>
+                            <a className="black"  href="Alisha_Mohasin _Resume.pdf" download="Alisha_Mohasin _Resume.pdf"> Resume</a>
                            
                     </li>
                 </ul>

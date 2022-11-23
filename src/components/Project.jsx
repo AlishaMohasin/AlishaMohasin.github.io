@@ -35,21 +35,7 @@ const Project=()=>{
                    </div>
                 </div>
               
-                <div className="project-box2">
-                    <div className="ever">
-                        <img width="100%" height={"350px"} src={monday} alt="" />
-                  
-                   </div>
-                   <div className="hour">
-                   <h4 className="bg"> Monday.com-clone</h4>
-                    <p> Monday.com is a customizable web and mobile work management platform, designed to help teams and organizations with operational efficiency by tracking projects and workflows, visualizing data, and team collaboration. It includes automation capabilities and supports integrations with other work apps. </p>
-                    <p className="tech">TECH STACK USED</p>
-                    <p><FaReact color="#9d174d" size="30px"/><FaHtml5 size="33px" color="#9d174d"/>  <SiCss3  color="#9d174d"  size="30px"/> <SiJavascript  color="#9d174d"  size="30px"/><SiChakraui color="#9d174d" size="30px"/> <SiVercel color="#9d174d" size="30px"/></p>
-                   <a href="https://alin-omega.vercel.app/"><button>Live</button></a> 
-                   <a href="https://github.com/AlishaMohasin/scrawny-liquid-7267/tree/main/mondayapp"><button>Github</button></a> 
-                 
-                   </div>
-                </div>
+          
               
                 <div className="project-box1">
             <div className="ever">
@@ -70,12 +56,26 @@ const Project=()=>{
                   
                    
                 </div>
-
+                <div className="project-box2">
+                    <div className="ever">
+                        <img width="100%" height={"350px"} src={monday} alt="" />
+                  
+                   </div>
+                   <div className="hour">
+                   <h4 className="bg"> Monday.com-clone</h4>
+                    <p> Monday.com is a customizable web and mobile work management platform, designed to help teams and organizations with operational efficiency by tracking projects and workflows, visualizing data, and team collaboration. It includes automation capabilities and supports integrations with other work apps. </p>
+                    <p className="tech">TECH STACK USED</p>
+                    <p><FaReact color="#9d174d" size="30px"/><FaHtml5 size="33px" color="#9d174d"/>  <SiCss3  color="#9d174d"  size="30px"/> <SiJavascript  color="#9d174d"  size="30px"/><SiChakraui color="#9d174d" size="30px"/> <SiVercel color="#9d174d" size="30px"/></p>
+                   <a href="https://alin-omega.vercel.app/"><button>Live</button></a> 
+                   <a href="https://github.com/AlishaMohasin/scrawny-liquid-7267/tree/main/mondayapp"><button>Github</button></a> 
+                 
+                   </div>
+                </div>
               
               
               
               
-              <div className="project-box1">
+               <div className="project-box1">
             <div className="ever">
                     
                     <img className="pro" width="100%" height={"350px"} src={mamaearth} alt="" />
@@ -95,7 +95,7 @@ const Project=()=>{
                    
                 </div>
             
-                <div className="project-box2">
+                 {/* <div className="project-box2">
                     <div className="ever">
                         <img width="100%" height={"350px"}  src={wheather} alt="" />
                   
@@ -109,13 +109,13 @@ const Project=()=>{
                    <a href="https://github.com/AlishaMohasin/weather-app/tree/main/weather%20app"><button>Github</button></a> 
                  
                    </div>
-                </div>
+                </div> */}
                
                
               
        
                 
-                <div className="project-box3">
+                {/* <div className="project-box3">
                     <div className="ever">
                         <img width="100%" height={"350px"} src={deccan}alt="" />
                   
@@ -129,7 +129,7 @@ const Project=()=>{
                     <a href="https://github.com/Naquee/Decon-Chronical.git" ><button>Github</button></a>
                   
                    </div>
-                </div>     
+                </div>       */}
 
 
                 
