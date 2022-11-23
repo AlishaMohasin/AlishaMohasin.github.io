@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.c37cf530.css",
-    "main.js": "/static/js/main.a2be66ee.js",
+    "main.css": "/static/css/main.2facf344.css",
+    "main.js": "/static/js/main.c8eb7c49.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
-    "static/media/shopbop.png": "/static/media/shopbop.ddf19bf0d79808b78ec1.png",
     "static/media/wheather.png": "/static/media/wheather.3c04265440fc73e71eb3.png",
     "static/media/Mamaearth.png": "/static/media/Mamaearth.e1d2dd8f1468f43ddb01.png",
+    "static/media/beautyhub.png": "/static/media/beautyhub.5e660a4c18779486f26e.png",
     "static/media/deccan.png": "/static/media/deccan.df373ee98892fbbac045.png",
     "static/media/profile1.png": "/static/media/profile1.e3a3551830338ba1e728.png",
     "static/media/Monday.png": "/static/media/Monday.a52572a14b7faf41606c.png",
     "static/media/Everhour.png": "/static/media/Everhour.2ba5cc185a25bd2c97e7.png",
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
-    "main.c37cf530.css.map": "/static/css/main.c37cf530.css.map",
-    "main.a2be66ee.js.map": "/static/js/main.a2be66ee.js.map",
+    "main.2facf344.css.map": "/static/css/main.2facf344.css.map",
+    "main.c8eb7c49.js.map": "/static/js/main.c8eb7c49.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c37cf530.css",
-    "static/js/main.a2be66ee.js"
+    "static/css/main.2facf344.css",
+    "static/js/main.c8eb7c49.js"
   ]
 }
