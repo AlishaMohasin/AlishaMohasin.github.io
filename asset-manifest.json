@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.2facf344.css",
+    "main.css": "/static/css/main.d06f1df1.css",
     "main.js": "/static/js/main.7504df4d.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/wheather.png": "/static/media/wheather.3c04265440fc73e71eb3.png",
@@ -12,12 +12,12 @@
     "static/media/Everhour.png": "/static/media/Everhour.2ba5cc185a25bd2c97e7.png",
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
-    "main.2facf344.css.map": "/static/css/main.2facf344.css.map",
+    "main.d06f1df1.css.map": "/static/css/main.d06f1df1.css.map",
     "main.7504df4d.js.map": "/static/js/main.7504df4d.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2facf344.css",
+    "static/css/main.d06f1df1.css",
     "static/js/main.7504df4d.js"
   ]
 }
