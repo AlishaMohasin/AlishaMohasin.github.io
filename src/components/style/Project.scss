@@ -58,13 +58,13 @@
         text-align: center;
         font-size: 20px;
       
-        cursor: grab;
+      
      
     }
     .hour{
   width: 100%;
   
-  cursor: grab;
+  
   
   background-color:#fff1f2  ;
 
@@ -85,7 +85,7 @@
             padding-top: 10px;
                 }
                 .bg:hover{
-                    text-decoration: underline;
+                    
                     color:#9d174d ;
                 }
     .tech{
@@ -93,7 +93,7 @@
        
     }
     .tech:hover{
-        text-decoration: underline;
+        
         color:#9d174d
     }
     }
@@ -117,7 +117,7 @@
 
    }
 .ever:hover{
-    transform: scale(0.9);
+    // transform: scale(0.9);
 }
 // .project-box2:hover{
 //     transform: scale(1.5);
@@ -166,13 +166,13 @@ gap: 20px;
     text-align: center;
     font-size: 10px;
   
-    cursor: pointer;
+   
 }
 
 .hour{
     width: 30%;
   
-    cursor: pointer;
+  
   
           p{
        color: black;

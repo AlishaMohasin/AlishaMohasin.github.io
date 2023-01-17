@@ -66,7 +66,7 @@ const Project=()=>{
                     <p> Monday.com is a customizable web and mobile work management platform, designed to help teams and organizations with operational efficiency by tracking projects and workflows, visualizing data, and team collaboration. It includes automation capabilities and supports integrations with other work apps. </p>
                     <p className="tech">TECH STACK USED</p>
                     <p><FaReact color="#9d174d" size="30px"/><FaHtml5 size="33px" color="#9d174d"/>  <SiCss3  color="#9d174d"  size="30px"/> <SiJavascript  color="#9d174d"  size="30px"/><SiChakraui color="#9d174d" size="30px"/> <SiVercel color="#9d174d" size="30px"/></p>
-                   <a href="https://alin-omega.vercel.app/"><button>Live</button></a> 
+                   <a href="https://elaborate-valkyrie-de70f3.netlify.app/"><button>Live</button></a> 
                    <a href="https://github.com/AlishaMohasin/scrawny-liquid-7267/tree/main/mondayapp"><button>Github</button></a> 
                  
                    </div>
